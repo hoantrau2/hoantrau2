@@ -1,8 +1,7 @@
 ### Hi there 👋
-🔭 I'm a senior in Ho Chi Minh City University of Technology (HCMUT).The major I am pursuing is Control Engineering and Automation.
-🌱 I have a strong passion for robotics and embedded software.
-
-📫 How to reach me: https://www.linkedin.com/in/hoan-duong-hcmut/
+- 🔭 I'm a senior in Ho Chi Minh City University of Technology (HCMUT).The major I am pursuing is Control Engineering and Automation.
+- 🌱 I have a strong passion for robotics and embedded software.
+- 📫 How to reach me: https://www.linkedin.com/in/hoan-duong-hcmut/
 
 <!--
 **hoantrau2/hoantrau2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
