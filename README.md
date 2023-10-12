@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ciao! 👋
 - 🔭 I'm a senior in Ho Chi Minh City University of Technology (HCMUT).The major I am pursuing is Control Engineering and Automation.
 - 🌱 I have a strong passion for robotics and embedded software.
 - 📫 How to reach me: https://www.linkedin.com/in/hoan-duong-hcmut/
