@@ -1,6 +1,6 @@
 ### Ciao! 👋
 - 👨 My name: Duong Ngoc Hoan
-- 🔭 I'm a senior in Ho Chi Minh City University of Technology (HCMUT). The major I am pursuing is Control Engineering and Automation (honors program).
+- 🔭 I'm a senior student at Ho Chi Minh City University of Technology (HCMUT). The major I am pursuing is Control Engineering and Automation (honors program).
 - 🌱 I have a strong passion for robotics, embedded software and researching advanced control algorithms.
 
 <!--
