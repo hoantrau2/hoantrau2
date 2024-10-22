@@ -1,8 +1,12 @@
 ### Ciao! 👋
-- 👨 My name: Duong Ngoc Hoan
-- 🔭 I'm a senior student at Ho Chi Minh City University of Technology (HCMUT). The major that I am pursuing is Control Engineering and Automation (honors program).
-- 🌱 I have a strong passion for robotics, automotive embedded systems and researching advanced control algorithms.
-
+👨 My name: Duong Ngoc Hoan
+🔭 Education:
+             I graduated from Ho Chi Minh City University of Technology (HCMUT) with a major in Control Engineering and Automation (Honors Program).
+🌱 Interests:
+             I have a strong passion for robotics, particularly mobile and humanoid robots, as well as automotive embedded systems and advanced control algorithms.
+👯 Current Role:
+             I currently work as an ADAS (Advanced Driving Assistance Systems) development engineer, contributing to the advancement of cutting-edge technologies that enhance vehicle safety and automation.
+💬 For more information about me, please visit my LinkedIn.
 <!--
 **hoantrau2/hoantrau2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
